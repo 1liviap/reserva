@@ -20,4 +20,4 @@ Instituto federal de São Paulo - Campus Caraguatatuba
 * cors
 
 #### Banco de Dados: MongoDB
- Autor: **Denny Paulista Azevedo Filho**
+ Autor: **Lívia de Faria Pires**
